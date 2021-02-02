@@ -1,0 +1,19 @@
+{
+  "name": "lets-qr-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "element-ui": "^2.13.0",
+    "p-limit": "^2.3.0",
+    "qrcode": "^1.4.4",
+    "vue": "^2.6.11",
+    "vue-draggable-resizable": "^2.1.0"
+  }
+}
